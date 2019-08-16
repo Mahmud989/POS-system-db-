@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<strings>
+	<string name="loginBTN">Giris</string>
+	<string name="loginLabel">istifadeci adi ve ya id</string>
+	<string name="loginPassword">Sifre</string>
+	<string name="closeBTN">Bagla</string>
+	<string name="DatabaseConnErr">Databaza elaqesi kesildi</string>
+	<string name="ServerConnectionErr">Server elaqesi kesildi</string>
+	<string name="UserOnlineErr">Istifadeci diger kompda aktivdir</string>
+	<string name="loginErrorMsg">Istifadeci adi ve ya sifre yanlisdir</string>
+	<string name="loginSuccessMsg">Giris ugurludur</string>
+	<string name="ProductNotFound">mehsul tapilmadi</string>
+	<string name="ProductFound">%i mehsul tapildi</string>
+	<string name="searchBTN">axtar</string>
+	<string name="dates">Yanvar,Fevral,Mart,Aprel,May,Iyun,Iyul,Avqust,Sentyabr,Oktyabr,Noyabr,Dekabr</string>
+	<string name="typeLBL">Növ</string>
+	<string name="ForSale_date">Satış Zamanına görə</string>
+	<string name="seller_name">Satıcı adı</string>
+	<string name="customer_name">Müştəri adı</string>
+	<string name="SaleDateLBL">Satış zamanı</string>
+	<string name="ProductPropeties">Məhsul haqqında</string>
+	<string name="Price">Qiymət</string>
+	<string name="sale_id">Satış nömrəsi</string>
+	<string name="check_out">Çıxış etmək</string>
+	<string name="Pay_BTN">Ödəniş</string>
+	<string name="Qaliq_LBL">Qalıq pul</string>
+	<string name="LabelForProductSearchInput">Məhsulu daxil edin</string>
+	<string name="idOrName">İd vəya Ad</string>
+	<string name="PayTypeLBL">Odəniş növü</string>
+	<string name="DeleteRowBTN">Sətr(lər)i sil</string>
+	<string name="ShowSaveMsg">Changes saved ad  %.5f  sec</string>
+	<string name="QaimeBTN">Qaime Panel</string>
+</strings>

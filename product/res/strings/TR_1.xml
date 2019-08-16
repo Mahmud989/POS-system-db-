@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<strings>
+	<string name="loginBTN">null</string>
+	<string name="loginLabel">null</string>
+	<string name="loginPassword">null</string>
+	<string name="closeBTN">null</string>
+	<string name="DatabaseConnErr">null</string>
+	<string name="ServerConnectionErr">null</string>
+	<string name="UserOnlineErr">null</string>
+	<string name="loginErrorMsg">null</string>
+	<string name="loginSuccessMsg">null</string>
+	<string name="ProductNotFound">null</string>
+	<string name="ProductFound">null</string>
+	<string name="searchBTN">null</string>
+	<string name="dates">null</string>
+	<string name="typeLBL">null</string>
+	<string name="ForSale_date">null</string>
+	<string name="seller_name">null</string>
+	<string name="customer_name">null</string>
+	<string name="SaleDateLBL">null</string>
+	<string name="ProductPropeties">null</string>
+	<string name="Price">null</string>
+	<string name="sale_id">null</string>
+	<string name="check_out">null</string>
+	<string name="Pay_BTN">null</string>
+	<string name="Qaliq_LBL">Para üstü</string>
+	<string name="LabelForProductSearchInput">null</string>
+	<string name="idOrName">null</string>
+	<string name="PayTypeLBL">null</string>
+	<string name="DeleteRowBTN">null</string>
+	<string name="ShowSaveMsg">null</string>
+	<string name="QaimeBTN">null</string>
+</strings>
